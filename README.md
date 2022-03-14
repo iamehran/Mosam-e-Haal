@@ -1,3 +1,3 @@
 # Mosam-e-Haal
 This is a simple web project to fetch weather of different cities.
-[Link to Google](https://www.google.com)
+[Let's See](https://iamehran.github.io/Mosam-e-Haal/)
